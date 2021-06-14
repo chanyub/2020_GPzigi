@@ -21,7 +21,7 @@ counter.py : 접속자 수 카운터
 - 웹 구현 보조
 - 접속자 수 카운터 추가
 
-## 기술 스택
+## 사용한 tools & library
 
 웹 크롤링 : Selenium
 
