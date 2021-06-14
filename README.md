@@ -4,7 +4,11 @@
 
 한번의 로그인을 통한 잔여학점 분석기
 
+app.py : flask 웹 구현
+
 saves.ipynb : 웹 크롤링, 잔여학점 계산 작업 후 결과값을 리턴
+
+counter.py : 접속자 수 카운터
 
 ![image](https://user-images.githubusercontent.com/54899906/121851316-ecca5100-cd28-11eb-89a1-9d062eae09d5.png)
 
